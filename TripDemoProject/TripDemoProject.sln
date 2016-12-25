@@ -8,6 +8,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripDemoTests", "TripDemoTests\TripDemoTests.csproj", "{E4927F94-2D10-4038-A8A0-04CBCC8D6004}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{75BE6A47-5311-4D2E-BD07-D5B9ECFF6FBE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Other", "Other", "{1F3D6080-42FF-4F0C-9DCE-1A0A0A97A336}"
 	ProjectSection(SolutionItems) = preProject
 		..\..\..\..\Documents\SQL Server Management Studio\SQLQuery.sql = ..\..\..\..\Documents\SQL Server Management Studio\SQLQuery.sql
 	EndProjectSection
