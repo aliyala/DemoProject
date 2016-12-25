@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interval.cs" />
+    <Compile Include="ITrip.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Trip.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
